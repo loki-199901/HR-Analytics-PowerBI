@@ -1,7 +1,7 @@
-#**Overview**
+##Overview
 This project leverages HR data to uncover valuable insights into employee retention, attrition patterns, and factors shaping workforce dynamics. By employing data transformation techniques and DAX calculations in Power BI, the dashboard provides a comprehensive analysis of employee tenure, attrition rates, salary distribution, and training hours. These insights aim to help organizations make data-driven decisions to improve employee satisfaction and retention.
 
-#**Key Features**
+##Key Features
 
 **Total Employees**: Provides the total count of employees within the organization.
 
@@ -17,7 +17,7 @@ This project leverages HR data to uncover valuable insights into employee retent
 
 **Training Insights**: Explores the relationship between the number of training hours received and attrition rates, highlighting the importance of professional development.
 
-#**Data Transformation & DAX Calculation**
+##Data Transformation & DAX Calculation
 
 **1. Total Employees:**
 Counts the total number of unique employees based on EmpID.
@@ -59,7 +59,7 @@ PromotionCategory = SWITCH(
     "Unknown"
 )
 
-##**Insights & Analysis**
+##Insights & Analysis
 
 **1. Attrition Rate:**
 The attrition rate for employees is 16.12%, with a higher rate among those with less than 1 year of tenure. Employees aged 25-35 are most likely to leave the company.
