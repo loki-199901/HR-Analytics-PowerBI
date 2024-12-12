@@ -1,3 +1,6 @@
+# EDA_AtomCamp
+A comprehensive analysis of AeroFit's treadmill buyer profiles using exploratory data analysis (EDA). This project uncovers actionable insights about customer demographics, preferences, and behaviors to optimize sales strategies.
+
 ##Overview
 This project leverages HR data to uncover valuable insights into employee retention, attrition patterns, and factors shaping workforce dynamics. By employing data transformation techniques and DAX calculations in Power BI, the dashboard provides a comprehensive analysis of employee tenure, attrition rates, salary distribution, and training hours. These insights aim to help organizations make data-driven decisions to improve employee satisfaction and retention.
 
