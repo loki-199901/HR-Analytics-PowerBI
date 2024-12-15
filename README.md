@@ -1,5 +1,7 @@
 # HR Data Analytics
 
+A Power BI Dashboard to come up with reasons for employee Attrition. 
+
 ## Overview
 This project leverages HR data to uncover valuable insights into employee retention, attrition patterns, and factors shaping workforce dynamics. By employing data transformation techniques and DAX calculations in Power BI, the dashboard provides a comprehensive analysis of employee tenure, attrition rates, salary distribution, and training hours. These insights aim to help organizations make data-driven decisions to improve employee satisfaction and retention.
 
