@@ -1,5 +1,4 @@
 # HR Data Analytics
-
 A Power BI Dashboard to come up with reasons for employee Attrition. 
 
 ## Overview
